@@ -41,7 +41,7 @@ button:hover {
 }
 
 .celebration-image {
-    margin-top: 20px;
+    margin-top: 5px;
     max-width:150px; /* Scale ảnh nhỏ lại */
     height: auto;
     border-radius: 20px; /* Bo viền mềm hơn */
@@ -58,7 +58,7 @@ button:hover {
 
 .surprise-image {
     margin-top: 50px;
-    max-width: 10000px;
+    max-width: 8000px;
     height: 700px;
     border-radius: 20px; /* Bo viền mềm hơn */
     animation: fadeIn 2s ease-in-out;
