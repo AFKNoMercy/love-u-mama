@@ -4,8 +4,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
-    margin: 0;
+    height:110vh;
+    margin-left: 240px;
     max-width: 80%;
     overflow: hidden;
 }
